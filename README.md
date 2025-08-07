@@ -1,1 +1,2 @@
-# World-of-Goo-Remastered
+# World of Goo Remastered
+Fan remaster of the game World of Goo.
